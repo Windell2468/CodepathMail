@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodepathMail</string>
+    <string name="sender">Sender</string>
+    <string name="email_title">Email Title</string>
+    <string name="summary_of_the_email">Summary of the email</string>
+    <string name="load_more">Load More</string>
+</resources>
